@@ -1,5 +1,5 @@
 void main()
 {
-  printf("Hello, world! branch\n");
+  printf("Hello, world!\n");
   return;
 }
